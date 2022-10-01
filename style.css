@@ -9,6 +9,7 @@
     width: 200px;
     margin-bottom: 8em;
     padding-left: 50px;
+    margin-left: 3.5em;
  }
 
  h2{
@@ -16,18 +17,20 @@
     margin-bottom: 2em;
     color: white;
     font-size: 20px;
+    margin-left: 5.5em;
  }
 
 
  button{
     font-size: 2em;
     border: 20px double white;
-    margin-left: 40px;
+    margin-left: 4.5em;
  }
 
 
  video{
     margin-top: 100px;
     width: 250px;
+    margin-left: 3em;
 
  }
