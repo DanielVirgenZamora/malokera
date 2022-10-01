@@ -1,44 +1,33 @@
  body{
    background-color: black;
-
  }
 
  h1{
     border: 4px dotted black;
-    margin-left: 11em;
-    margin-right: 10em;
     border-radius: 15%;
-    background-color: red;
-    padding-left: 7em;
-    padding-right: 8em;
-    width: 100px;
+    background-color: red; 
+    width: 200px;
     margin-bottom: 8em;
+    padding-left: 50px;
  }
 
  h2{
     margin-top: 2em;
     margin-bottom: 2em;
     color: white;
-    margin-left: 30em;
-    margin-right: 30em;
-    font-size: larger;
-
+    font-size: 20px;
  }
- a{
-    margin-left: 34em;
-    margin-right: 37em;
-    margin-top: 2em;
 
-    
- }
 
  button{
     font-size: 2em;
     border: 20px double white;
+    margin-left: 40px;
  }
 
+
  video{
-    margin-left: 30em;
-    margin-right: 30em;
-    margin-top: 10em;
+    margin-top: 100px;
+    width: 250px;
+
  }
